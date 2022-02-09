@@ -5,7 +5,7 @@ public class Cat {
     public String color;
     public int age;
 
-    public void meow() {
+        public void meow() {
         System.out.println(name + " мяукнул");
     }
 
